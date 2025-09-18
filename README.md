@@ -1,1 +1,1 @@
-# fashionaidemo
+# FashionAI demo
